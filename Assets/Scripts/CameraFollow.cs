@@ -24,5 +24,5 @@ public class CameraFollow : MonoBehaviour
             ref velocity,
             smoothTime
         );
-    }
+     }
 }
